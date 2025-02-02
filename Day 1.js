@@ -1,4 +1,4 @@
-// variables
+//variables
 
 var FruitName="Apple"
 var count=10
